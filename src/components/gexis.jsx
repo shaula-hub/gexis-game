@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import PropTypes from "prop-types";
 
 const BOARD_WIDTH = 10;
-const BOARD_HEIGHT = 30;
+const BOARD_HEIGHT = 25;
 
 // Tetromino shapes
 const TETROMINO_SHAPES = {
